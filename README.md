@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Thiago Antonio
-- 👀 I’m interested in estudar e aprnder coisas novas para área dea tecnologia
+- 👀 I’m interested in estudar e aprender coisas novas para área dea tecnologia
 - 🌱 I’m currently learning Java e HTML/CSS
 - 💞️ I’m looking to collaborate on  uma empresa
 - 📫 How to reach me thiagocsouto@outlook.com
